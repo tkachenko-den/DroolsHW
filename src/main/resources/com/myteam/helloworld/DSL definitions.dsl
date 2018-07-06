@@ -1,1 +1,0 @@
-[then] Вывести в консоль "{text}" = System.out.println("{text}")
